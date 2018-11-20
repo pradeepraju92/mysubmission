@@ -9,9 +9,9 @@ Programming Language - Python3
 Steps to Execute:
 python3 work.py
 
-Enter the inputfilename along with the path:  #####
-Enter the outputfilename along with the path: @@@@@
-CSV file is normalized and output file is saved at @@@@@
+Enter the inputfilename along with the path:  #####</br>
+Enter the outputfilename along with the path: @@@@@</br>
+CSV file is normalized and output file is saved at @@@@@</br>
 
 ------------------------------------------------------------------------
 
