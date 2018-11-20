@@ -11,6 +11,9 @@ python3 work.py
 
 Enter the inputfilename along with the path:  #####</br>
 Enter the outputfilename along with the path: @@@@@</br>
+</br>
+Output:</br>
+</br>
 CSV file is normalized and output file is saved at @@@@@</br>
 
 ------------------------------------------------------------------------
